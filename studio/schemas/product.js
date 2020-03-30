@@ -11,7 +11,7 @@ export default {
     {
       name: 'id',
       title: 'ID',
-      type: 'string',
+      type: 'number',
       description: 'This comes from Shopify and cannot be changed',
       readOnly: true,
       hidden: true

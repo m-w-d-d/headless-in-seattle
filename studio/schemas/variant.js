@@ -24,7 +24,7 @@ export default {
     {
       name: 'productId',
       title: 'Product ID',
-      type: 'string',
+      type: 'number',
       description: 'This comes from Shopify and cannot be changed',
       readOnly: true,
       hidden: true
@@ -32,7 +32,7 @@ export default {
     {
       name: 'variantId',
       title: 'Variant ID',
-      type: 'string',
+      type: 'number',
       description: 'This comes from Shopify and cannot be changed',
       readOnly: true,
       hidden: true
