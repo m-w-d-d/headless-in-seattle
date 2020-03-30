@@ -27,7 +27,7 @@ export default {
       type: 'number',
       description: 'This comes from Shopify and cannot be changed',
       readOnly: true,
-      hidden: true
+      hidden: false
     },
     {
       name: 'variantId',
@@ -35,7 +35,7 @@ export default {
       type: 'number',
       description: 'This comes from Shopify and cannot be changed',
       readOnly: true,
-      hidden: true
+      hidden: false
     },
     {
       name: 'price',
@@ -60,7 +60,7 @@ export default {
 
   preview: {
     select: {
-      title: 'title',
+      title: 'variantTitle',
       media: 'mainImage'
     }
   }
