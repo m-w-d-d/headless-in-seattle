@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "change-me",
+    "projectId": "z396b21t",
     "dataset": "production"
   },
   "project": {
-    "name": "New Project",
+    "name": "Headless in Seattle",
     "basePath": "/"
   },
   "plugins": [
